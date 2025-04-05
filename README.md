@@ -56,26 +56,139 @@ N-Tier Design · REST & GraphQL APIs · Caching Strategies · Microservices · J
 
 ---
 
-### 🌟 Featured Projects
+# 🚀 Projects by Hariharan K
 
-- 🧠 **No-Code AI Platform**  
-  Convert freehand sketches into working React code using OpenCV, EasyOCR, and Transformers.
-
-- 🧩 **Drag-and-Drop App Builder**  
-  Built with React + Node.js – Create responsive apps visually, and export them as full React code.
-
-- 📩 **Unified Mail Client**  
-  One UI for Gmail, Outlook & more – Built with FastAPI and Redux Toolkit.
-
-- 📊 **Smart Dashboard for Farmers**  
-  Visualize real-time weather & soil data using OpenWeatherMap APIs and Python.
-
-- 🧾 **Expense Tracker App**  
-  A secure and responsive budgeting tool built using Next.js + MongoDB.
-
-> 🔧 Want to collaborate or explore more? Visit [haridev.tech](https://haridev.tech)
+Welcome to my portfolio! Here's a showcase of my top full-stack and AI-based projects, combining frontend finesse with backend logic and intelligent automation.
 
 ---
+
+## 🧠 1. No-Code AI Platform (Sketch-to-Code)
+
+### 🔍 What it does:
+This project allows users to draw UI layouts (like buttons, textboxes, etc.) on paper or a canvas. The system uses AI to understand the sketch and automatically convert it into production-ready **React.js code**.
+
+### ⚙️ How it works:
+- 🖼️ **Image Processing**: Sketch is preprocessed using OpenCV.  
+- 🔍 **Text & Element Detection**: EasyOCR reads text from the sketch (e.g., "Submit", "Email").  
+- 🧠 **Model Prediction**: Transformers identify UI components.  
+- 🧾 **Code Generation**: Generates equivalent React code with structure and styles.  
+- 📥 **Download Output**: Final code is downloadable for developers.
+
+### 💡 Technologies Used:
+
+**Frontend:**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Fabric.js](https://img.shields.io/badge/Fabric.js-%23F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend / AI:**  
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009639.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)  
+![EasyOCR](https://img.shields.io/badge/EasyOCR-%2332C766.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Transformers](https://img.shields.io/badge/transformers-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)  
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
+
+## 🧩 2. Drag-and-Drop App Builder
+
+### 🔍 What it does:
+A visual platform where users can build responsive UI by dragging components like buttons, text boxes, images, etc., and export complete React code.
+
+### ⚙️ How it works:
+- 🎨 Drag UI components on a visual editor.  
+- ⚙️ Customize properties (text, color, size).  
+- 📦 Generate clean React + Tailwind code.  
+- 💾 Save/load templates from MongoDB.
+
+### 💡 Technologies Used:
+
+**Frontend:**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Framer Motion](https://img.shields.io/badge/framer%20motion-%23black.svg?style=for-the-badge&logo=framer&logoColor=blue)  
+![GSAP](https://img.shields.io/badge/gsap-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+---
+
+## 📩 3. Unified Mail Client
+
+### 🔍 What it does:
+A single platform to manage multiple email providers (Gmail, Outlook) in one UI.
+
+### ⚙️ How it works:
+- 🔑 Uses OAuth or IMAP to access user inboxes.  
+- 📬 Combines and displays email threads.  
+- 🔎 Search with tags, filters, and keywords.
+
+### 💡 Technologies Used:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009639.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)  
+![OAuth2](https://img.shields.io/badge/OAuth2-%23100000.svg?style=for-the-badge&logo=oauth&logoColor=white)
+
+---
+
+## 📊 4. Smart Dashboard for Farmers
+
+### 🔍 What it does:
+A real-time data dashboard for farmers to view weather, soil health, and critical farming stats.
+
+### ⚙️ How it works:
+- ⛅ Gets weather data from OpenWeatherMap API.  
+- 🌱 Displays soil moisture, humidity, etc.  
+- 📊 Easy-to-read graphs and insights.
+
+### 💡 Technologies Used:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)  
+![Recharts](https://img.shields.io/badge/recharts-%23FFDD57.svg?style=for-the-badge&logo=recharts&logoColor=black)  
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009639.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-%23FF7300.svg?style=for-the-badge&logo=openweathermap&logoColor=white)
+
+---
+
+## 🧾 5. Expense Tracker App
+
+### 🔍 What it does:
+Track your daily expenses, categorize spending, and manage budgets easily.
+
+### ⚙️ How it works:
+- 🧾 Input expenses by category.  
+- 📅 View weekly/monthly summaries.  
+- 🔒 Optional login + secure sync with MongoDB.
+
+### 💡 Technologies Used:
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-%23007ACC.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
+## 🧠 Summary of Key Technologies Used Across All Projects
+
+| Area         | Technologies                                                                 |
+|--------------|------------------------------------------------------------------------------|
+| **Frontend** | React.js, Next.js, Tailwind CSS, Bootstrap, GSAP, Framer Motion              |
+| **Backend**  | Node.js, Express.js, Python (FastAPI, Flask, Django, Tornado)                |
+| **AI/ML**    | OpenCV, EasyOCR, PyTorch, TensorFlow, Transformers                           |
+| **Database** | MongoDB, MySQL, SQLite                                                       |
+| **Dev Tools**| Postman, VS Code, GitHub Actions                                             |
+| **Architec.**| Microservices, JWT Auth, REST APIs, N-Tier Design                            |
+
+---
+
+📫 **Visit My Portfolio:** [haridev.tech](https://haridev.tech)  
+👨‍💻 **GitHub:** [gowdaman-dev](https://github.com/gowdaman-dev)
 
 ### 📊 GitHub Stats & Activity
 
