@@ -188,7 +188,7 @@ Track your daily expenses, categorize spending, and manage budgets easily.
 ---
 
 📫 **Visit My Portfolio:** [haridev.tech](https://haridev.tech)  
-👨‍💻 **GitHub:** [gowdaman-dev](https://github.com/gowdaman-dev)
+👨‍💻 **GitHub:** [hariharan7089](https://github.com/hariharan7089)
 
 ### 📊 GitHub Stats & Activity
 
@@ -221,7 +221,7 @@ Track your daily expenses, categorize spending, and manage budgets easily.
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/gowdaman-dev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hariharankfsd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://haridev.tech"><img src="https://img.shields.io/badge/-Portfolio-%23FFC6FE?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-  <a href="https://twitter.com/gowdaman_dev"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  
 </p>
