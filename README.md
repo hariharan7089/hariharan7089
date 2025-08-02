@@ -222,6 +222,6 @@ Track your daily expenses, categorize spending, and manage budgets easily.
 
 <p align="center">
   <a href="https://linkedin.com/in/hariharankfsd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://haridev.tech"><img src="https://img.shields.io/badge/-Portfolio-%23FFC6FE?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <a href="https://hariharank.me"><img src="https://img.shields.io/badge/-Portfolio-%23FFC6FE?style=for-the-badge&logo=vercel&logoColor=black"/></a>
   
 </p>
