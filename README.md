@@ -1,4 +1,4 @@
-<img src="Banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="0S5A4359.jpg" alt="GitHub Banner" width="100%" />
 
 # Hey there, I'm Hari Haran 👋🏼
 
